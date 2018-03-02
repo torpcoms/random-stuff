@@ -55,3 +55,7 @@ A table for Vector support [in IBM's compiler documentation](https://www.ibm.com
 </tbody></table>
 
 Also, a paper on Power SIMD [at ResearchGate](https://www.researchgate.net/publication/299472451_Workload_acceleration_with_the_IBM_POWER_vector-scalar_architecture) I am currently reading.
+
+## Raptor Computing Firmware Contest
+
+https://www.raptorcs.com/TALOSII/nic_fw_contest.php
