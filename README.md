@@ -1,5 +1,16 @@
 # random-stuff
 
+## POWER9 Chip Types
+
+![slide 10 from POWER9 presentation](417cc949b5deeceec99d32fd6367102c2559b436.png)
+
+This chart was extracted from the slide deck of Jeff Stuecheli's POWER9 presentation to the AIX Virtual User Group. I made the rendered out image large enough to make the processor diagrams be at their native size. The IBM and Power Systems logos are faded because the PDF has them broken into hundreds of tiny images for some stupid reason.
+
+||OpenPOWER/PowerNV|PowerVM
+-|-|-
+**Scale out**|Nimbus|?
+**Scale up**||Cumulus
+
 ## Amiga Power Chips
 
 Machine|Motherboard|CPU|ISA
